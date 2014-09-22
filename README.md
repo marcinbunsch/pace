@@ -9,5 +9,5 @@ Copyright
 
 License is MIT, see LICENSE for details.
 
-Logo generated in [http://www.freelogoservices.com/](http://www.freelogoservices.com/)
+Logo generated in [http://www.logogarden.com/](http://www.logogarden.com/).
 
